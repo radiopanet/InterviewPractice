@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using InterviewPractice.Domain.Entities;
 
-namespace InterviewPractice.Domain.Data;
+namespace InterviewPractice.Infrastructure.Data;
 
 public class AppDbContext: DbContext
 {
