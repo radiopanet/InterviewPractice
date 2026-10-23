@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterviewPractice.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1955e74de024d6b85c48d377af4960aa4f07d197")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0469739dbfa99603837508dd3501758b7c8b9e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterviewPractice.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterviewPractice.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
