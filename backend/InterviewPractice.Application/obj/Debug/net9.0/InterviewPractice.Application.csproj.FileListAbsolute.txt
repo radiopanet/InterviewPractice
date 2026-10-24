@@ -1,0 +1,16 @@
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/bin/Debug/net9.0/InterviewPractice.Application.deps.json
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/bin/Debug/net9.0/InterviewPractice.Application.dll
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/bin/Debug/net9.0/InterviewPractice.Application.pdb
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/bin/Debug/net9.0/InterviewPractice.Domain.dll
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/bin/Debug/net9.0/InterviewPractice.Domain.pdb
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/obj/Debug/net9.0/InterviewPractice.Application.csproj.AssemblyReference.cache
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/obj/Debug/net9.0/InterviewPractice.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/obj/Debug/net9.0/InterviewPractice.Application.AssemblyInfoInputs.cache
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/obj/Debug/net9.0/InterviewPractice.Application.AssemblyInfo.cs
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/obj/Debug/net9.0/InterviewPractice.Application.csproj.CoreCompileInputs.cache
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/obj/Debug/net9.0/InterviewPractice.Application.sourcelink.json
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/obj/Debug/net9.0/Intervie.B4D79B0D.Up2Date
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/obj/Debug/net9.0/InterviewPractice.Application.dll
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/obj/Debug/net9.0/refint/InterviewPractice.Application.dll
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/obj/Debug/net9.0/InterviewPractice.Application.pdb
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Application/obj/Debug/net9.0/ref/InterviewPractice.Application.dll

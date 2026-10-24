@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "InterviewPractice.Domain/1.0.0": {
+        "runtime": {
+          "InterviewPractice.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterviewPractice.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

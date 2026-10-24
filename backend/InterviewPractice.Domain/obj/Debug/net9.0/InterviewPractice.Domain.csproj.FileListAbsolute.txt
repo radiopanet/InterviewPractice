@@ -1,0 +1,12 @@
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Domain/bin/Debug/net9.0/InterviewPractice.Domain.deps.json
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Domain/bin/Debug/net9.0/InterviewPractice.Domain.dll
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Domain/bin/Debug/net9.0/InterviewPractice.Domain.pdb
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Domain/obj/Debug/net9.0/InterviewPractice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Domain/obj/Debug/net9.0/InterviewPractice.Domain.AssemblyInfoInputs.cache
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Domain/obj/Debug/net9.0/InterviewPractice.Domain.AssemblyInfo.cs
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Domain/obj/Debug/net9.0/InterviewPractice.Domain.csproj.CoreCompileInputs.cache
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Domain/obj/Debug/net9.0/InterviewPractice.Domain.sourcelink.json
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Domain/obj/Debug/net9.0/InterviewPractice.Domain.dll
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Domain/obj/Debug/net9.0/refint/InterviewPractice.Domain.dll
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Domain/obj/Debug/net9.0/InterviewPractice.Domain.pdb
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Domain/obj/Debug/net9.0/ref/InterviewPractice.Domain.dll

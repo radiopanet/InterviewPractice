@@ -1,0 +1,6 @@
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Infrastructure/obj/Debug/net9.0/InterviewPractice.Infrastructure.csproj.AssemblyReference.cache
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Infrastructure/obj/Debug/net9.0/InterviewPractice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Infrastructure/obj/Debug/net9.0/InterviewPractice.Infrastructure.AssemblyInfoInputs.cache
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Infrastructure/obj/Debug/net9.0/InterviewPractice.Infrastructure.AssemblyInfo.cs
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Infrastructure/obj/Debug/net9.0/InterviewPractice.Infrastructure.csproj.CoreCompileInputs.cache
+/home/tx/Projects/FullStack/InterviewPractice/backend/InterviewPractice.Infrastructure/obj/Debug/net9.0/InterviewPractice.Infrastructure.sourcelink.json
